@@ -1,0 +1,19 @@
+Download for macOS
+There are several options for installing Git on macOS. Note that any non-source distributions are provided by third parties, and may not be up to date with the latest source release.
+
+Homebrew
+Install homebrew if you don't already have it, then:
+$ brew install git
+
+Xcode
+Apple ships a binary package of Git with Xcode.
+
+Binary installer
+Tim Harper provides an installer for Git. The latest version is 2.33.0, which was released 8 months ago, on 2021-08-30.
+
+Building from Source
+If you prefer to build from source, you can find tarballs on kernel.org. The latest version is 2.36.0.
+
+Installing git-gui
+If you would like to install git-gui and gitk, git's commit GUI and interactive history browser, you can do so using homebrew
+$ brew install git-gui
