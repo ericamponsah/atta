@@ -17,3 +17,5 @@ If you prefer to build from source, you can find tarballs on kernel.org. The lat
 Installing git-gui
 If you would like to install git-gui and gitk, git's commit GUI and interactive history browser, you can do so using homebrew
 $ brew install git-gui
+##############################################################################
+I can do all things through Christ who strengthens me.
